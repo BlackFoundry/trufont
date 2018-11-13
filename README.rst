@@ -6,7 +6,7 @@ TruFont Black Foundry Fork
 `TruFont <https://trufont.github.io>`__ is a font-editing application
 written with Python3, ufoLib, defcon and PyQt5.
 
-**Note this requires the [Black Foundry tfont library](https://github.com/BlackFoundry/tfont) to run without crashing.**
+**Note** this requires the `Black Foundry tfont library <https://github.com/BlackFoundry/tfont/>`__ to run without crashing.
 
 Getting started
 ~~~~~~~~~~~~~~~
